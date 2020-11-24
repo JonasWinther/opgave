@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="opgave4.css">
+    <title>float layout</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="main-head">The Header</header>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#">Nav 1</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+                <li><a href="#">Nav 3</a></li>
+            </ul>
+        </nav>
+        <article class="content">
+            <h1>Main article area</h1>
+            <p>TEKST TEKST TEKST</p>
+        </article>
+        <aside class="side">Sidebar</aside>
+        <div class="ad">Advertising</div>
+        <footer class="main-footer">The Footer</footer>
+    </div>
+</body>
+</html>
