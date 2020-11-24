@@ -19,7 +19,7 @@
         <article class="content">
             <h1>Main article area</h1>
             <p>TEKST TEKST TEKST</p>
-            <p>Commit 2</p>
+            <p>Commit 3</p>
         </article>
         <aside class="side">Sidebar</aside>
         <div class="ad">Advertising</div>
